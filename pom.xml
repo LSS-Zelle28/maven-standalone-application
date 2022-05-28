@@ -42,7 +42,7 @@
 		<connection>scm:git:https://github.com/LandmarkTechnology/maven-standalone-application</connection>
 		<developerConnection>scm:git:https://github.com/LandmarkTechnology/maven-standalone-application</developerConnection>
 		<tag>HEAD</tag>
-		<url>https://github.com/LandmarkTechnology/maven-standalone-application</url>
+		<url>https://github.com/LSS-Zelle28/maven-standalone-application</url>
 	</scm>
 
 	<issueManagement>
